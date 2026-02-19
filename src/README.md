@@ -48,3 +48,5 @@ The application uses a simple data model with meaningful identifiers:
    - Grade level
 
 All data is stored in memory, which means data will be reset when the server restarts.
+
+Activity definitions are loaded from `activities.json`, so teachers can update offerings without editing Python code.
